@@ -1,5 +1,5 @@
 // Sum of all max sum elements.
-// Max sum
+// Math class is included in java.lang.Math package.
 public class MaxLargeSum {
     public static void main(String[] args) {
         Calc c=new Calc();
