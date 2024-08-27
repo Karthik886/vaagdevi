@@ -1,4 +1,5 @@
 // Sum of all max sum elements.
+// Max sum
 public class MaxLargeSum {
     public static void main(String[] args) {
         Calc c=new Calc();
